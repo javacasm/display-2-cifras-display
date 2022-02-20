@@ -1,5 +1,6 @@
 {
     "name": "display 2 cifras display",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
